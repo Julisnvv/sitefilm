@@ -1,0 +1,48 @@
+body{
+ 	 	font-family: courier new, monospace;
+ }
+
+ .container_nachalo{
+	background: url(img/volk1.jpg) center no-repeat;
+ 	font-family: courier new, monospace;
+ 	width: 120%;
+height: 1000px;  
+ -webkit-background-size:cover ;
+background-size:cover;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+}
+
+.title {
+	color: white;
+	font-size: 57px;
+	text-align: center;
+	font-family: courier new, monospace;
+height: 15em;
+    position: relative
+}
+
+
+.container{
+
+	color: white;
+	background-color: #3B362A;
+font-size: 22px;
+text-align: center;
+}
+
+.syzhet{
+	color: white;
+	font-size: 22px;
+text-align: center;
+text-decoration: none;
+}
+
+.v_rolyah{
+	color: white;
+	font-size: 22px;
+text-align: center;
+text-decoration: none;
+}
